@@ -7,6 +7,7 @@ The “Necropsy” folder documents the necropsy of a leopard seal pup conducted
 To download the videos, follow these simple instructions:
 1.	Navigate to the folder of interest (PAB_Videos or Necropsy/Videos), 2. Click on a video file (e.g., LSR01_2024.mp4). 3.	Click “Download” in the right corner (or right-click the “Download” button and choose “Save As”). Note: If GitHub displays a message like “This file is stored with Git LFS and won’t display,” proceed with the download — the full video will download correctly.
 Additionally, the repository includes a Word document containing the two supplementary tables referenced in the manuscript.
+
 For further information, please contact the authors at: 
 Emily Sperou — Emily_Sperou1@baylor.edu 
 Renato Borras-Chavez — renato.borraschavez@uri.edu/rborras@gmail.com
